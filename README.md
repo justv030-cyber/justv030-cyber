@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👋 Hi, I'm Harshil Thummar
 
-<!--
-**justv030-cyber/justv030-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Blockchain & Full Stack Developer
 
-Here are some ideas to get you started:
+🚀 3+ Years of Blockchain Development Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 Solidity Smart Contracts
+🔹 DeFi Protocols
+🔹 NFT Marketplace
+🔹 ERC20 / ERC721 / ERC1155
+🔹 Staking
+🔹 Token Sale
+🔹 DAO
+🔹 Web3 Integration
+
+Currently building scalable decentralized applications.
