@@ -1,6 +1,7 @@
 ## 👋 Hi, I'm Harshil Thummar
 
 💻 Smart Contract Engineer & Full Stack Developer
+# Looking For New Opportunity
 
 🚀 3+ Years of Blockchain Development Experience
 
